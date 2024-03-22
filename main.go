@@ -3,9 +3,9 @@ package main
 import (
 	"net/http"
 
-	"github.com/Monicakodali/SEPROJECT/api/controller"
-	"github.com/Monicakodali/SEPROJECT/api/models"
-	"github.com/Monicakodali/SEPROJECT/api/utils"
+	"github.com/likhithachinthakuntla/UFBuddy/api/controller"
+	"github.com/likhithachinthakuntla/UFBuddy/api/models"
+	"github.com/likhithachinthakuntla/UFBuddy/api/utils"
 	"github.com/gin-gonic/contrib/static"
 	"github.com/gin-gonic/gin"
 	_ "github.com/jinzhu/gorm/dialects/sqlite"
@@ -27,31 +27,7 @@ func main() {
 
 	defer db.Close()
 
-	/*if !db.HasTable(&models.Establishment{}) {
-		fmt.Println("Table doesnot exist. Creating table establishment")
-		db.Debug().AutoMigrate(&models.Establishment{})
-	}
-
-	if !db.HasTable(&models.UFDining{}) {
-		fmt.Println("Table doesnot exist. Creating table UFDining")
-		db.Debug().AutoMigrate(&models.UFDining{})
-	}
-
-	if !db.HasTable(&models.User{}) {
-		fmt.Println("Table doesnot exist. Creating table User")
-		db.Debug().AutoMigrate(&models.User{})
-	}
-
-	if !db.HasTable(&models.Review{}) {
-		fmt.Println("Table doesnot exist. Creating table Review")
-		db.Debug().AutoMigrate(&models.Review{})
-	}
-	if !db.HasTable(&models.Photos{}) {
-		fmt.Println("Table doesnot exist. Creating table Review")
-		db.Debug().AutoMigrate(&models.Photos{})
-	}*/
-
-	//fmt.Println(db)
+	
 
 	router := gin.New()
 
