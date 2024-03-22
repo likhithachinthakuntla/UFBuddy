@@ -1,19 +1,7 @@
-# UF YELP
+Overview
+UFBuddy is an application that will allow students to look up, sort, and review different establishments around Gainesville with a great focus on campus. Users will be able to leave detailed reviews, comments, and photos on places in Gainesville including restaurants, attractions, and services, similar to Yelp.com
 
-
-## Contributers:
-```
-Andrew Kuczynski - Frontend
-Monica Bhargavi Kodali - Frontend
-
-Carol Navya Pagolu - Backend
-Manjari Misra - Backend
-```
-
-## Overview
-UF Yelp is an application that will allow students to look up, sort, and review different establishments around Gainesville with a great focus on campus. Users will be able to leave detailed reviews, comments, and photos on places in Gainesville including restaurants, attractions, and services, similar to Yelp.com
-
-UF Yelp will be a one-stop application where students can find what they want and need on campus and read honest reviews.
+This will be a one-stop application where students can find what they want and need on campus and read honest reviews.
 
 ## Basic Functionality
 1. Students will be able to create an account with a UFL email
