@@ -1,4 +1,4 @@
-Overview
+##Overview
 UFBuddy is an application that will allow students to look up, sort, and review different establishments around Gainesville with a great focus on campus. Users will be able to leave detailed reviews, comments, and photos on places in Gainesville including restaurants, attractions, and services, similar to Yelp.com
 
 This will be a one-stop application where students can find what they want and need on campus and read honest reviews.
