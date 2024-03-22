@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"github.com/Monicakodali/SEPROJECT/api/repos"
+	"github.com/likhithachinthakuntla/UFBuddy/api/repos"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/sqlite"
 )
