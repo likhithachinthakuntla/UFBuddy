@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/Monicakodali/SEPROJECT/api/models"
-	"github.com/Monicakodali/SEPROJECT/api/repos"
+	"github.com/likhithachinthakuntla/UFBuddy/api/models"
+	"github.com/likhithachinthakuntla/UFBuddy/api/repos"
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/sqlite"
