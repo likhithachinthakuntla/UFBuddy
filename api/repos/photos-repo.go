@@ -1,7 +1,7 @@
 package repos
 
 import (
-	"github.com/Monicakodali/SEPROJECT/api/models"
+	"github.com/likhithachinthakuntla/UFBuddy/api/models"
 	"github.com/jinzhu/gorm"
 )
 
