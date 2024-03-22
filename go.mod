@@ -1,5 +1,4 @@
-module github.com/Monicakodali/SEPROJECT
-
+module github.com/likhithachinthakuntla/UFBuddy
 go 1.17
 
 require (
