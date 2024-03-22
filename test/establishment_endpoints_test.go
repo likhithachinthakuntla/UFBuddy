@@ -6,9 +6,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/Monicakodali/SEPROJECT/api/controller"
-	"github.com/Monicakodali/SEPROJECT/api/models"
-	"github.com/Monicakodali/SEPROJECT/api/utils"
+	"github.com/likhithachinthakuntla/UFBuddy/api/controller"
+	"github.com/likhithachinthakuntla/UFBuddy/api/models"
+	"github.com/likhithachinthakuntla/UFBuddy/api/utils"
 	"github.com/gin-gonic/gin"
 )
 
