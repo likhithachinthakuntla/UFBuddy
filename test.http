@@ -1,18 +1,18 @@
 
 
-GET http://localhost:8080/api/reviews/user/monica
+GET http://localhost:8080/api/reviews/user/likhitha
 
-DELETE http://localhost:8080/api/reviews/56,monica
+DELETE http://localhost:8080/api/reviews/56,likhitha
 
 POST http://localhost:8080/api/reviews
 Content-Type: application/json
 
 
   {
-    "Review_user": "monica",
+    "Review_user": "likhitha",
     "Review_est": 7,
-    "Review": "Good food",
-    "Rating":2
+    "Review": "good ambience",
+    "Rating":3
   }
 
 GET http://localhost:8080/api/establishments/44
@@ -39,7 +39,7 @@ Content-Type: application/json
 
 
   {
-    "Review_user": "cpagolu",
+    "Review_user": "alice",
     "Review_est": 2,
     "Review": "Good Dining place!",
     "Rating":4
@@ -51,7 +51,7 @@ POST http://localhost:8080/api/reviews
 Content-Type: application/json
 
   {"Review_id":44,
-	"Review_user": "carolnavya",
+	"Review_user": "alice",
 	"Review_est": 82,
   "Review": "Amazing Service",
   "Rating": 4.5,
@@ -69,9 +69,9 @@ POST http://localhost:8080/api/users
 Content-Type: application/json
 
   {
-  "Username": "carolnavya",
-	"Email": "cpagolu@ufl.edu",
-	"Name": "Carol Navya Pagolu",
+  "Username": "alice",
+	"Email": "alice@ufl.edu",
+	"Name": "Alice Parker",
 	"Password": "abc123",
 	"Verified": 0
   }
