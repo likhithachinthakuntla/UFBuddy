@@ -1,0 +1,613 @@
+
+
+GET http://localhost:8080/api/reviews/user/monica
+
+DELETE http://localhost:8080/api/reviews/56,monica
+
+POST http://localhost:8080/api/reviews
+Content-Type: application/json
+
+
+  {
+    "Review_user": "monica",
+    "Review_est": 7,
+    "Review": "Good food",
+    "Rating":2
+  }
+
+GET http://localhost:8080/api/establishments/44
+
+DELETE http://localhost:8080/api/establishments/2
+
+POST http://localhost:8080/api/establishments
+Content-Type: application/json
+
+
+  {
+    "est_id": 2,
+    "type": "DINING",
+    "name": "P.O.D. Market",
+    "x": 29.64636443982178,
+    "y": -82.34316087863382
+  }
+
+GET http://localhost:8080/api/reviews
+
+POST http://localhost:8080/api/reviews
+
+Content-Type: application/json
+
+
+  {
+    "Review_user": "cpagolu",
+    "Review_est": 2,
+    "Review": "Good Dining place!",
+    "Rating":4
+  }
+
+GET http://localhost:8080/api/reviews
+
+POST http://localhost:8080/api/reviews
+Content-Type: application/json
+
+  {"Review_id":44,
+	"Review_user": "carolnavya",
+	"Review_est": 82,
+  "Review": "Amazing Service",
+  "Rating": 4.5,
+  "revTime": "2019-07-04T13:33:03.969Z"
+  }
+
+
+
+DELETE http://localhost:8080/api/reviews
+Content-Type: application/json
+
+  {"Review_id":1}
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+  {
+  "Username": "carolnavya",
+	"Email": "cpagolu@ufl.edu",
+	"Name": "Carol Navya Pagolu",
+	"Password": "abc123",
+	"Verified": 0
+  }
+
+POST http://localhost:8080/api/establishments
+Content-Type: application/json
+
+
+  {
+    "id": "82",
+    "type": "DINING",
+    "name": "P.O.D. Market",
+    "building": "0551",
+    "room": "173",
+    "url": "",
+    "x": 29.64636443982178,
+    "y": -82.34316087863382
+  }
+  {
+    "id": "76",
+    "type": "DINING",
+    "name": "Boar's Head",
+    "building": "0556",
+    "room": "0104",
+    "url": "",
+    "x": 29.648720068154468,
+    "y": -82.34128718387561
+  },
+  {
+    "id": "78",
+    "type": "DINING",
+    "name": "KFC",
+    "building": "0556",
+    "room": "0102",
+    "url": "",
+    "x": 29.64870803710225,
+    "y": -82.3414409477829
+  },
+  {
+    "id": "80",
+    "type": "DINING",
+    "name": "P.O.D Market",
+    "building": "0556",
+    "room": "0105",
+    "url": "",
+    "x": 29.648674933021745,
+    "y": -82.34129944675398
+  },
+  {
+    "id": "10",
+    "type": "DINING",
+    "name": "Gator Corner Dining Center",
+    "building": "0359",
+    "room": "0102",
+    "url": "",
+    "x": 29.64799308394271,
+    "y": -82.35012991223326
+  },
+  {
+    "id": "81",
+    "type": "DINING",
+    "name": "We Proudly Serve Starbucks",
+    "building": "0556",
+    "room": "0106",
+    "url": "",
+    "x": 29.64867421519185,
+    "y": -82.34126510387047
+  },
+  {
+    "id": "83",
+    "type": "DINING",
+    "name": "Subway",
+    "building": "0551",
+    "room": "171",
+    "url": "",
+    "x": 29.64629935956117,
+    "y": -82.34316177893429
+  },
+  {
+    "id": "77",
+    "type": "DINING",
+    "name": "Freshens",
+    "building": "0556",
+    "room": "0103",
+    "url": "",
+    "x": 29.648717829577794,
+    "y": -82.34136187251782
+  },
+  {
+    "id": "79",
+    "type": "DINING",
+    "name": "Little Hall Express",
+    "building": "0556",
+    "room": "0101",
+    "url": "",
+    "x": 29.648778346169184,
+    "y": -82.34132405460136
+  },
+  {
+    "id": "49",
+    "type": "DINING",
+    "name": "Chick-fil-A",
+    "building": "1011",
+    "room": "0113",
+    "url": "",
+    "x": 29.64710949518669,
+    "y": -82.34148054394188
+  },
+  {
+    "id": "32",
+    "type": "DINING",
+    "name": "Einstein Bros. Bagels",
+    "building": "0075",
+    "room": "115",
+    "url": "",
+    "x": 29.63353529190224,
+    "y": -82.35019648493981
+  },
+  {
+    "id": "18",
+    "type": "DINING",
+    "name": "Chomp \u0026 Go",
+    "building": "1178",
+    "room": "1311",
+    "url": "",
+    "x": 29.638559970198507,
+    "y": -82.37401193569875
+  },
+  {
+    "id": "45",
+    "type": "DINING",
+    "name": "P.O.D. Market",
+    "building": "0032",
+    "room": "109",
+    "url": "",
+    "x": 29.64818419877828,
+    "y": -82.34517652737598
+  },
+  {
+    "id": "22",
+    "type": "DINING",
+    "name": "Starbucks",
+    "building": "0032",
+    "room": "121",
+    "url": "",
+    "x": 29.648242275485124,
+    "y": -82.34544404943249
+  },
+  {
+    "id": "8",
+    "type": "DINING",
+    "name": "Fresh Food Company",
+    "building": "1011",
+    "room": "0100",
+    "url": "",
+    "x": 29.647010059092832,
+    "y": -82.34116449362168
+  },
+  {
+    "id": "28",
+    "type": "DINING",
+    "name": "Einstein Bros. Bagels",
+    "building": "0203",
+    "room": "C1-141",
+    "url": "",
+    "x": 29.640783549041284,
+    "y": -82.34442415238232
+  },
+  {
+    "id": "12",
+    "type": "DINING",
+    "name": "Chick-fil-A",
+    "building": "0032",
+    "room": "101",
+    "url": "",
+    "x": 29.648388096492884,
+    "y": -82.3451407691284
+  },
+  {
+    "id": "27",
+    "type": "DINING",
+    "name": "Salad Creations",
+    "building": "0203",
+    "room": "C1-151",
+    "url": "",
+    "x": 29.64075000215797,
+    "y": -82.3444954697845
+  },
+  {
+    "id": "26",
+    "type": "DINING",
+    "name": "Chick-fil-A",
+    "building": "0203",
+    "room": "C1-142",
+    "url": "",
+    "x": 29.640753380071992,
+    "y": -82.34435237757702
+  },
+  {
+    "id": "25",
+    "type": "DINING",
+    "name": "Starbucks",
+    "building": "0203",
+    "room": "C1-168",
+    "url": "",
+    "x": 29.64068396424927,
+    "y": -82.34470941755644
+  },
+  {
+    "id": "29",
+    "type": "DINING",
+    "name": "Panda Express",
+    "building": "0203",
+    "room": "C1-161",
+    "url": "",
+    "x": 29.640559031258903,
+    "y": -82.3449694605825
+  },
+  {
+    "id": "30",
+    "type": "DINING",
+    "name": "Jamba Juice",
+    "building": "0267",
+    "room": "1406",
+    "url": "",
+    "x": 29.64876185101999,
+    "y": -82.34455097587797
+  },
+  {
+    "id": "31",
+    "type": "DINING",
+    "name": "Firehouse Subs",
+    "building": "0267",
+    "room": "1409",
+    "url": "",
+    "x": 29.648659473145347,
+    "y": -82.34445876483842
+  },
+  {
+    "id": "17",
+    "type": "DINING",
+    "name": "Java City/ We Proudly Brew Starbucks",
+    "building": "0033",
+    "room": "0108",
+    "url": "",
+    "x": 29.642180645600835,
+    "y": -82.34723598227596
+  },
+  {
+    "id": "15",
+    "type": "DINING",
+    "name": "Chomp \u0026 Go",
+    "building": "1376",
+    "room": "194",
+    "url": "",
+    "x": 29.637939149829908,
+    "y": -82.35168730091816
+  },
+  {
+    "id": "55",
+    "type": "DINING",
+    "name": "Rising Roll",
+    "building": "0065",
+    "room": "102",
+    "url": "",
+    "x": 29.651669601727452,
+    "y": -82.34030595493499
+  },
+  {
+    "id": "41",
+    "type": "DINING",
+    "name": "Pollo Tropical",
+    "building": "0886",
+    "room": "1480A",
+    "url": "",
+    "x": 29.645760050693234,
+    "y": -82.34791371167911
+  },
+  {
+    "id": "6",
+    "type": "DINING",
+    "name": "Chomp \u0026 Go",
+    "building": "0064",
+    "room": "138",
+    "url": "",
+    "x": 29.650458338257657,
+    "y": -82.34079154122497
+  },
+  {
+    "id": "97",
+    "type": "DINING",
+    "name": "Local Restaurant Row",
+    "building": "0686",
+    "room": "1430",
+    "url": "",
+    "x": 29.64600913164863,
+    "y": -82.3478103705652
+  },
+  {
+    "id": "39",
+    "type": "DINING",
+    "name": "Panda Express",
+    "building": "0686",
+    "room": "1440",
+    "url": "",
+    "x": 29.64604448536702,
+    "y": -82.34790109015029
+  },
+  {
+    "id": "40",
+    "type": "DINING",
+    "name": "Papa John's",
+    "building": "0686",
+    "room": "1420",
+    "url": "",
+    "x": 29.646043664864667,
+    "y": -82.34773714097274
+  },
+  {
+    "id": "69",
+    "type": "DINING",
+    "name": "P.O.D. Market",
+    "building": "0686",
+    "room": "G430",
+    "url": "",
+    "x": 29.646476825888328,
+    "y": -82.34777523074666
+  },
+  {
+    "id": "52",
+    "type": "DINING",
+    "name": "Wendy's",
+    "building": "0686",
+    "room": "1410",
+    "url": "",
+    "x": 29.646185123514524,
+    "y": -82.34770805183919
+  },
+  {
+    "id": "42",
+    "type": "DINING",
+    "name": "Starbucks",
+    "building": "0686",
+    "room": "1450",
+    "url": "",
+    "x": 29.645855051545187,
+    "y": -82.34782447951673
+  },
+  {
+    "id": "62",
+    "type": "DINING",
+    "name": "Wing Zone Orange \u0026 Brew",
+    "building": "0686",
+    "room": "G106",
+    "url": "",
+    "x": 29.646211690707123,
+    "y": -82.34772792628222
+  },
+  {
+    "id": "43",
+    "type": "DINING",
+    "name": "Subway",
+    "building": "0686",
+    "room": "G410",
+    "url": "",
+    "x": 29.6464811520961,
+    "y": -82.34787265694659
+  },
+  {
+    "id": "70",
+    "type": "DINING",
+    "name": "Shake Smart",
+    "building": "0686",
+    "room": "G440",
+    "url": "",
+    "x": 29.646466237660754,
+    "y": -82.34768372246837
+  },
+  {
+    "id": "33",
+    "type": "DINING",
+    "name": "Arredondo Cafe",
+    "building": "0686",
+    "room": "4015",
+    "url": "",
+    "x": 29.646417399696634,
+    "y": -82.3477554011734
+  },
+  {
+    "id": "24",
+    "type": "DINING",
+    "name": "Starbucks",
+    "building": "0689",
+    "room": "147",
+    "url": "",
+    "x": 29.651184205694417,
+    "y": -82.34284964805623
+  },
+  {
+    "id": "9",
+    "type": "DINING",
+    "name": "Shake Smart",
+    "building": "0316",
+    "room": "0100B",
+    "url": "",
+    "x": 29.638167640058096,
+    "y": -82.36848198295021
+  },
+  {
+    "id": "50",
+    "type": "DINING",
+    "name": "P.O.D. Market",
+    "building": "0752",
+    "room": "0108",
+    "url": "",
+    "x": 29.644301870243943,
+    "y": -82.34063756253492
+  },
+  {
+    "id": "85",
+    "type": "DINING",
+    "name": "P.O.D. Market",
+    "building": "0589",
+    "room": "0009",
+    "url": "",
+    "x": 29.553464284672113,
+    "y": -89.85930231400066
+  },
+  {
+    "id": "61",
+    "type": "DINING",
+    "name": "Chomp It",
+    "building": "0589",
+    "room": "0009A",
+    "url": "",
+    "x": 29.553540973471453,
+    "y": -89.85911459660882
+  },
+  {
+    "id": "56",
+    "type": "DINING",
+    "name": "Starbucks",
+    "building": "0043",
+    "room": "L206",
+    "url": "",
+    "x": 29.647934702525063,
+    "y": -82.34413128575179
+  },
+  {
+    "id": "65",
+    "type": "DINING",
+    "name": "Starbucks",
+    "building": "0759",
+    "room": "0151A",
+    "url": "",
+    "x": 29.649301711756284,
+    "y": -82.35878042317617
+  },
+  {
+    "id": "86",
+    "type": "DINING",
+    "name": "Starbucks",
+    "building": "0101",
+    "room": "0117",
+    "url": "",
+    "x": 29.646486409708288,
+    "y": -82.33834641626558
+  },
+  {
+    "id": "64",
+    "type": "DINING",
+    "name": "Au Bon Pain",
+    "building": "0013",
+    "room": "102",
+    "url": "",
+    "x": 29.649015062660474,
+    "y": -82.3453371628803
+  },
+  {
+    "id": "23",
+    "type": "DINING",
+    "name": "Chomp It",
+    "building": "0759",
+    "room": "0151B",
+    "url": "",
+    "x": 29.64920360944333,
+    "y": -82.3587311100039
+  },
+  {
+    "id": "87",
+    "type": "DINING",
+    "name": "The Market",
+    "building": "0101",
+    "room": "0115",
+    "url": "",
+    "x": 29.64658694299048,
+    "y": -82.33827131532293
+  },
+  {
+    "id": "60",
+    "type": "DINING",
+    "name": "We Proudly Serve Starbucks",
+    "building": "0214",
+    "room": "129",
+    "url": "",
+    "x": 29.642028338695535,
+    "y": -82.3443554548433
+  },
+  {
+    "id": "21",
+    "type": "DINING",
+    "name": "Moe's Southwest Grill",
+    "building": "0266",
+    "room": "0100A",
+    "url": "",
+    "x": 29.650182375855586,
+    "y": -82.34634038186434
+  },
+  {
+    "id": "4",
+    "type": "DINING",
+    "name": "Camellia Court Cafe",
+    "building": "0309",
+    "room": "G050",
+    "url": "",
+    "x": 29.636725476837285,
+    "y": -82.37062743865658
+  },
+  {
+    "id": "44",
+    "type": "DINING",
+    "name": "Chomp It",
+    "building": "0266",
+    "room": "0100B",
+    "url": "",
+    "x": 29.650088012733526,
+    "y": -82.34632657842418
+  }
+]

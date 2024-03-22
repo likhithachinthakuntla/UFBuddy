@@ -1,0 +1,1766 @@
+{
+  "title": "Gator Dining Hours",
+  "disclaimer": "Spring 2022 Dining location hours are subject to change due to school holidays and exam schedules.",
+  "data": [
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Au Bon Pain @ Newell Hall",
+      "name": "Au Bon Pain",
+      "location": "Newell Hall"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Boar's Head @ Little Hall Express",
+      "name": "Boar's Head",
+      "location": "Little Hall Express"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "10:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "10:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "10:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "10:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "10:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Camellia Court Café @ Harn Museum of Art",
+      "name": "Camellia Court Café",
+      "location": "Harn Museum of Art"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "10:00 AM ‑ 8:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "10:00 AM ‑ 8:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "10:00 AM ‑ 8:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "10:00 AM ‑ 8:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "10:00 AM ‑ 8:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "10:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Chick-fil-A @ Broward Dining Center",
+      "name": "Chick-fil-A",
+      "location": "Broward Dining Center"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "6:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "6:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "6:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "6:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "6:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Chick-fil-A @ Sun Terrace Café",
+      "name": "Chick-fil-A",
+      "location": "Sun Terrace Café"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:00 AM ‑ 8:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:00 AM ‑ 8:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:00 AM ‑ 8:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:00 AM ‑ 8:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Chick-fil-A @ The Hub",
+      "name": "Chick-fil-A",
+      "location": "The Hub"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:30 AM ‑ 3:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:30 AM ‑ 3:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:30 AM ‑ 3:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:30 AM ‑ 3:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:30 AM ‑ 3:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Chomp & Go @ Cancer and Genetics Research Center",
+      "name": "Chomp & Go",
+      "location": "Cancer and Genetics Research Center"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        }
+      ],
+      "fullName": "Chomp & Go @ Hough Hall",
+      "name": "Chomp & Go",
+      "location": "Hough Hall"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:30 AM ‑ 3:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:30 AM ‑ 3:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:30 AM ‑ 3:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:30 AM ‑ 3:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:30 AM ‑ 3:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Chomp & Go @ UF Health Orthopaedics and Sports Medicine",
+      "name": "Chomp & Go",
+      "location": "UF Health Orthopaedics and Sports Medicine"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 AM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 AM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 AM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 AM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 AM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "9:00 AM ‑ 3:00 AM"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "9:00 AM ‑ 3:00 AM"
+        }
+      ],
+      "fullName": "Chomp It @ Graham Area",
+      "name": "Chomp It",
+      "location": "Graham Area"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "10:30 AM ‑ 2:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "10:30 AM ‑ 2:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "10:30 AM ‑ 2:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "10:30 AM ‑ 2:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Chomp It @ Levin College of Law",
+      "name": "Chomp It",
+      "location": "Levin College of Law"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:15 AM ‑ 3:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:15 AM ‑ 3:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:15 AM ‑ 3:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:15 AM ‑ 3:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:15 AM ‑ 3:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Einstein Bros Bagels @ College of Veterinary Medicine",
+      "name": "Einstein Bros Bagels",
+      "location": "College of Veterinary Medicine"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:00 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:00 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:00 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:00 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:00 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Einstein Bros Bagels @ Sun Terrace Café",
+      "name": "Einstein Bros Bagels",
+      "location": "Sun Terrace Café"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "10:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "10:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "10:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "10:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "10:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Firehouse Subs @ Turlington Plaza",
+      "name": "Firehouse Subs",
+      "location": "Turlington Plaza"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:00 AM ‑ 11:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:00 AM ‑ 11:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:00 AM ‑ 11:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:00 AM ‑ 11:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:00 AM ‑ 10:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "8:30 AM ‑ 10:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "8:30 AM ‑ 11:00 PM"
+        }
+      ],
+      "fullName": "Fresh Food Company @ Broward Dining Hall",
+      "name": "Fresh Food Company",
+      "location": "Broward Dining Hall"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Freshens @ Little Hall Express",
+      "name": "Freshens",
+      "location": "Little Hall Express"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:00 AM ‑ 11:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:00 AM ‑ 11:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:00 AM ‑ 11:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:00 AM ‑ 11:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:00 AM ‑ 10:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "8:30 AM ‑ 10:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "8:30 AM ‑ 11:00 PM"
+        }
+      ],
+      "fullName": "Gator Corner Dining Center @ Corner of Gale Lemerand Dr. and Stadium Rd.",
+      "name": "Gator Corner Dining Center",
+      "location": "Corner of Gale Lemerand Dr. and Stadium Rd."
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "8:00 AM ‑ 4:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "8:00 AM ‑ 4:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "8:00 AM ‑ 4:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "8:00 AM ‑ 4:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "8:00 AM ‑ 4:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Gator Dining Business Office @ Stadium Gate 4",
+      "name": "Gator Dining Business Office",
+      "location": "Stadium Gate 4"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "10:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "10:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "10:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "10:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "10:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Jamba Juice @ Turlington Plaza",
+      "name": "Jamba Juice",
+      "location": "Turlington Plaza"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Java City @ New Engineering Building",
+      "name": "Java City",
+      "location": "New Engineering Building"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "KFC @ Little Hall Express",
+      "name": "KFC",
+      "location": "Little Hall Express"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Little Hall Express @ Little Hall Express",
+      "name": "Little Hall Express",
+      "location": "Little Hall Express"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 AM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 AM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 AM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 AM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 AM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "9:00 AM ‑ 3:00 AM"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "9:00 AM ‑ 3:00 AM"
+        }
+      ],
+      "fullName": "P.O.D. Market @ Beaty Towers",
+      "name": "P.O.D. Market",
+      "location": "Beaty Towers"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 AM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 AM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 AM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 AM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "8:00 AM ‑ 3:00 AM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "9:00 AM ‑ 3:00 AM"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "9:00 AM ‑ 3:00 AM"
+        }
+      ],
+      "fullName": "P.O.D. Market @ Graham Area",
+      "name": "P.O.D. Market",
+      "location": "Graham Area"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "P.O.D. Market @ Little Hall Express",
+      "name": "P.O.D. Market",
+      "location": "Little Hall Express"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:00 AM ‑ 1:00 AM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:00 AM ‑ 1:00 AM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:00 AM ‑ 1:00 AM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:00 AM ‑ 1:00 AM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:00 AM ‑ 1:00 AM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "10:00 AM ‑ 1:00 AM"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "10:00 AM ‑ 1:00 AM"
+        }
+      ],
+      "fullName": "P.O.D. Market @ Rawlings Plaza",
+      "name": "P.O.D. Market",
+      "location": "Rawlings Plaza"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:00 AM ‑ 7:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:00 AM ‑ 7:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:00 AM ‑ 7:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:00 AM ‑ 7:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "P.O.D. Market @ The Hub",
+      "name": "P.O.D. Market",
+      "location": "The Hub"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "10:30 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "10:30 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "10:30 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "10:30 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "10:30 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Panda Express @ Health Science Center",
+      "name": "Panda Express",
+      "location": "Health Science Center"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "10:30 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "10:30 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "10:30 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "10:30 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "10:30 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Salad Creations @ Sun Terrace Café",
+      "name": "Salad Creations",
+      "location": "Sun Terrace Café"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "8:00 AM ‑ 10:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "8:00 AM ‑ 10:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "8:00 AM ‑ 10:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "8:00 AM ‑ 10:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "8:00 AM ‑ 10:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "8:30 AM ‑ 8:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "8:30 AM ‑ 8:30 PM"
+        }
+      ],
+      "fullName": "Shake Smart @ Southwest Recreation Center",
+      "name": "Shake Smart",
+      "location": "Southwest Recreation Center"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Starbucks @ College of Education Norman Hall",
+      "name": "Starbucks",
+      "location": "College of Education Norman Hall"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "6:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "6:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "6:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "6:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "6:00 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Starbucks @ Health Science Center",
+      "name": "Starbucks",
+      "location": "Health Science Center"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:30 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:30 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:30 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:30 AM ‑ 4:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:30 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Starbucks @ Levin College of Law",
+      "name": "Starbucks",
+      "location": "Levin College of Law"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:00 AM ‑ MIDNIGHT"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:00 AM ‑ MIDNIGHT"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:00 AM ‑ MIDNIGHT"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:00 AM ‑ MIDNIGHT"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:00 AM ‑ 11:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "10:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "10:00 AM ‑ 10:00 PM"
+        }
+      ],
+      "fullName": "Starbucks @ Library West",
+      "name": "Starbucks",
+      "location": "Library West"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:00 AM ‑ 10:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:00 AM ‑ 10:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:00 AM ‑ 10:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:00 AM ‑ 10:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:00 AM ‑ 10:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "10:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "10:00 AM ‑ 6:00 PM"
+        }
+      ],
+      "fullName": "Starbucks @ Marston Science Library",
+      "name": "Starbucks",
+      "location": "Marston Science Library"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:30 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:30 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:30 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:30 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:30 AM ‑ 4:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Starbucks @ The Hub",
+      "name": "Starbucks",
+      "location": "The Hub"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "10:00 AM ‑ 1:00 AM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "10:00 AM ‑ 1:00 AM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "10:00 AM ‑ 1:00 AM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "10:00 AM ‑ 1:00 AM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "10:00 AM ‑ 1:00 AM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "10:00 AM ‑ 1:00 AM"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "10:00 AM ‑ 1:00 AM"
+        }
+      ],
+      "fullName": "Subway @ Rawlings Plaza",
+      "name": "Subway",
+      "location": "Rawlings Plaza"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "8:00 AM ‑ 2:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "8:00 AM ‑ 2:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "8:00 AM ‑ 2:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "8:00 AM ‑ 2:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "8:00 AM ‑ 2:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "The Market @ College of Education Norman Hall",
+      "name": "The Market",
+      "location": "College of Education Norman Hall"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:00 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:00 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:00 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:00 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:00 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "We Proudly Serve Starbucks @ College of Medicine Harrell Medical Education Building",
+      "name": "We Proudly Serve Starbucks",
+      "location": "College of Medicine Harrell Medical Education Building"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:00 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "We Proudly Serve Starbucks @ Little Hall Express",
+      "name": "We Proudly Serve Starbucks",
+      "location": "Little Hall Express"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": ""
+        }
+      ],
+      "fullName": "REITZ UNION",
+      "name": "REITZ UNION"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "11:00 AM ‑ 1:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "11:00 AM ‑ 1:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "11:00 AM ‑ 1:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "11:00 AM ‑ 1:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "11:00 AM ‑ 1:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Arredondo Café @ Reitz Union",
+      "name": "Arredondo Café",
+      "location": "Reitz Union"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "9:00 AM ‑ 10:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "9:00 AM ‑ 10:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "9:00 AM ‑ 10:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "9:00 AM ‑ 10:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "9:00 AM ‑ 8:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "1:00 PM ‑ 6:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "1:00 PM ‑ 6:00 PM"
+        }
+      ],
+      "fullName": "P.O.D. Market @ Reitz Union",
+      "name": "P.O.D. Market",
+      "location": "Reitz Union"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "10:30 AM ‑ 7:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "10:30 AM ‑ 7:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "10:30 AM ‑ 7:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "10:30 AM ‑ 7:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "10:30 AM ‑ 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Panda Express @ Reitz Union",
+      "name": "Panda Express",
+      "location": "Reitz Union"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "10:30 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "10:30 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "10:30 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "10:30 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "10:30 AM ‑ 3:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Papa John's @ Reitz Union",
+      "name": "Papa John's",
+      "location": "Reitz Union"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "10:30 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "10:30 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "10:30 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "10:30 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "10:30 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Pollo Tropical @ Reitz Union",
+      "name": "Pollo Tropical",
+      "location": "Reitz Union"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "9:00 AM ‑ 8:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "9:00 AM ‑ 8:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "9:00 AM ‑ 8:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "9:00 AM ‑ 8:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "9:00 AM ‑ 8:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "1:00 PM ‑ 6:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "1:00 PM ‑ 6:00 PM"
+        }
+      ],
+      "fullName": "Shake Smart @ Reitz Union",
+      "name": "Shake Smart",
+      "location": "Reitz Union"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "7:00 AM ‑ 8:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "7:00 AM ‑ 8:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "7:00 AM ‑ 8:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "7:00 AM ‑ 8:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "7:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "8:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "8:00 AM ‑ 6:00 PM"
+        }
+      ],
+      "fullName": "Starbucks @ Reitz Union",
+      "name": "Starbucks",
+      "location": "Reitz Union"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "8:00 AM ‑ 9:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "8:00 AM ‑ 9:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "8:00 AM ‑ 9:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "8:00 AM ‑ 9:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "8:00 AM ‑ 9:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "8:00 AM ‑ 8:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "8:00 AM ‑ 8:00 PM"
+        }
+      ],
+      "fullName": "Subway @ Reitz Union",
+      "name": "Subway",
+      "location": "Reitz Union"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "10:30 AM ‑ 7:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "10:30 AM ‑ 7:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "10:30 AM ‑ 7:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "10:30 AM ‑ 7:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "10:30 AM ‑ 7:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "11:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "11:00 AM ‑ 6:00 PM"
+        }
+      ],
+      "fullName": "Wendy's @ Reitz Union",
+      "name": "Wendy's",
+      "location": "Reitz Union"
+    },
+    {
+      "hours": [
+        {
+          "day": "Monday",
+          "hoursOfOperation": "11:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hoursOfOperation": "11:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hoursOfOperation": "11:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hoursOfOperation": "11:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hoursOfOperation": "11:00 AM ‑ 6:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hoursOfOperation": "CLOSED"
+        },
+        {
+          "day": "Sunday",
+          "hoursOfOperation": "CLOSED"
+        }
+      ],
+      "fullName": "Wing Zone @ Reitz Union",
+      "name": "Wing Zone",
+      "location": "Reitz Union"
+    }
+  ]
+}
